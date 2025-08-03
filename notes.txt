@@ -1,15 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+ HEAD
 Line 1: Initial note
-HEAD
+
 HEAD
 Line 2: Second note
 Line 2: Second note
  parent of 53a0532 (Commit 2: Add line 2 to notes.txt) parent of 53a0532 (Commit 2: Add line 2 to notes.txt)
-=======
+
 Line 3
 Note 3
->>>>>>> 16a694b849de543cf7f3e947083e68cce453761f
-=======
-Line 1: Note 1
->>>>>>> parent of 6279831 (Part 2)
+16a694b849de543cf7f3e947083e68cce453761f
+
+Line 1: Note 
+ parent of 6279831 (Part 2)
+ parent of 53a0532 (Commit 2: Add line 2 to notes.txt)
