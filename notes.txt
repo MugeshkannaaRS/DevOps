@@ -1,4 +1,7 @@
 
+<<<<<<< HEAD
 Line 2
 Line 3
 
+=======
+>>>>>>> e4d2f3ebac2eca6d6884fdbb95c9c79230410cf5
