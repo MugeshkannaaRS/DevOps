@@ -1,3 +1,6 @@
 Line 1: Initial note
+<<<<<<< HEAD
 Line 2: Second note
 Line 2: Second note
+=======
+>>>>>>> parent of 53a0532 (Commit 2: Add line 2 to notes.txt)
