@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Line 1: Initial note
 HEAD
 HEAD
@@ -9,3 +10,6 @@ Line 2: Second note
 Line 3
 Note 3
 >>>>>>> 16a694b849de543cf7f3e947083e68cce453761f
+=======
+Line 1: Note 1
+>>>>>>> parent of 6279831 (Part 2)
